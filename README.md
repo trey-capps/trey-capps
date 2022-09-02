@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi, Welcome to my Github profile!</h2>
-<a href="https://www.linkedin.com/in/trey-capps" target="_blank">
-<img src=https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png alt=linkedin height="30" width="40" />
+<a href="https://www.linkedin.com/in/trey-capps" target="blank">
+<img src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="linkedin" height="30" width="40" />
 </a>
 <br />
 Feedback is always welcome! Feel free to rasie issues and submit PRs if something may not be quite right.
