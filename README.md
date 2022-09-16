@@ -7,8 +7,6 @@
 <div align="center">
 <h3><b>About Me</b></h3>
 <p> I am actively creating projects surrounding data, machine learning, statistics, and data engineering</p>
-<p><em>“If you torture the data long enough, it will confess.”
-- Ronald Coase</em></p>
 <a href="https://treycapps.com" target="blank"><b>treycapps.com</b></a>
 <br />
 <br />
