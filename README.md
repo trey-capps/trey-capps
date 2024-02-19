@@ -25,7 +25,7 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
 <h3><b>Languages & Tools</b></h3>
 <p>
 
@@ -52,4 +52,4 @@
 
 </p>
 <hr />
-</div>
+</div> -->
