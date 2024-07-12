@@ -7,13 +7,12 @@
 <div align="center">
 <h3><b>About Me</b></h3>
 <p> I am actively creating projects surrounding data, machine learning, statistics, and data engineering</p>
-<a href="https://treycapps.com" target="blank"><b>treycapps.com</b></a>
+<!-- <a href="https://treycapps.com" target="blank"><b>treycapps.com</b></a>
 <br />
 <br />
-
+ -->
 <h3><b>Contact Me</b></h3>
 <p>Suggestions are always welcome!</p>
-<p>Feel free to fork, raise an issue, or submit a PR to any repo.</p>
 <p>If you have any questions or wish to collaborate please feel free to reach out.</p>
 
 <p>
